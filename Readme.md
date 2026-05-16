@@ -44,8 +44,8 @@ If you use this code in your project, please cite:
 
 @article{blablabla,
   title={Optimizing Snowball Referrals in Expert Surveys},
-  author={Christopolou, Dimitris and Jose, Alex and Campi, Marta},
+  author={Christopoulos, Dimitris and Jose, Alex and Campi, Marta},
   journal={Available at ..},
-  year={2024}
+  year={2026}
 }
 
